@@ -1,0 +1,2 @@
+# AI
+AI Begginer projects
